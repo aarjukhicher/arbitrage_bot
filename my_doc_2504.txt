@@ -1,0 +1,2 @@
+bitmex api:- https://www.bitmex.com/api/explorer/#!/OrderBook/OrderBook_getL2
+deribit api:- https://docs.deribit.com/?shell#public-get_order_book
